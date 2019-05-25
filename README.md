@@ -5,4 +5,4 @@ pkg install git
 pkg install python
 git clone https://github.com/RifCyberTeam/spamsms
 cd spamsms
-sh spamsms.sh
+python spamsms.py
